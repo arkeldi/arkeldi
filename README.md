@@ -12,5 +12,5 @@
 
 - 📫 All of these projects I have worked on include thorough documentation and analysis of my work. 
 
-- ⚡ Fun fact: My firt name is combination of my Father's name, Artur, and my Mother's name, Enkelejda. 
+- ⚡ Fun fact: My first name is combination of my Father's name, Artur, and my Mother's name, Enkelejda. 
 
