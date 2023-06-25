@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**arkeldi/arkeldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on expanding my knowledge of cybersecurity by working on various projects.
+- 🔭 I'm Arkeldi, and I’m currently working on expanding my knowledge of cybersecurity by working on various projects.
 
 - 💬 ECGDataRetrieval: Client-Server Communication, is a project that involves a client-server architecture, where the client interacts with a server to obtain electrocardiogram (ECG) data of patients. The main operations include fetching individual data points and retrieving whole raw files of varying sizes. In this project, I am dealing with sensitive healthcare data, thus demonstrating an understanding of secure data transmission, a critical aspect in maintaining data privacy and integrity in cybersecurity.
 
@@ -18,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 All of these projects I have worked on include thorough documentation and analysis of my work. 
 
 - ⚡ Fun fact: My firt name is combination of my Father's name, Artur, and my Mother's name, Enkelejda. 
--->
+
