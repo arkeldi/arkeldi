@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm Arkeldi, and I’m currently working on expanding my knowledge of software engineering by working on various projects.
+- 🔭 I'm Arkeldi, and I’m currently working on expanding my knowledge of software engineering by working on various projects shown below.
 
 - 💬 StarbucksPOS, is a project 4 other programmers and I worked on to develop a comprehensive Point of Sales (POS) system specifically designed for Starbucks. The focus of this project was on product/menu customization and sales tracking. To accomplish this, we leveraged product IDs to manage inventory and analyze employee performance effectively.
 - To enhance the system's functionality, I developed and integrated backend RESTful APIs. This significant upgrade facilitated a seamless connection to the frontend user interface, thereby optimizing user experience. Further improvements to the user experience were made by incorporating accessibility features into the system, which included adjustable font size, contrast/brightness settings, and compatibility with screen readers.
