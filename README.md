@@ -3,10 +3,8 @@
 - 🔭 I'm Arkeldi, and I’m currently working on expanding my knowledge of software engineering by working on various projects.
 
 - 💬 StarbucksPOS, is a project 4 other programmers and I worked on to develop a comprehensive Point of Sales (POS) system specifically designed for Starbucks. The focus of this project was on product/menu customization and sales tracking. To accomplish this, we leveraged product IDs to manage inventory and analyze employee performance effectively.
-
-To enhance the system's functionality, I developed and integrated backend RESTful APIs. This significant upgrade facilitated a seamless connection to the frontend user interface, thereby optimizing user experience. Further improvements to the user experience were made by incorporating accessibility features into the system, which included adjustable font size, contrast/brightness settings, and compatibility with screen readers.
-
-Throughout the project, we utilized Agile methodology and GitHub Projects, which proved highly effective for project management and task organization. This efficient management approach ensured that all tasks were completed timely and systematically, leading to the successful completion of the comprehensive POS system.
+- To enhance the system's functionality, I developed and integrated backend RESTful APIs. This significant upgrade facilitated a seamless connection to the frontend user interface, thereby optimizing user experience. Further improvements to the user experience were made by incorporating accessibility features into the system, which included adjustable font size, contrast/brightness settings, and compatibility with screen readers.
+- Throughout the project, we utilized Agile methodology and GitHub Projects, which proved highly effective for project management and task organization. This efficient management approach ensured that all tasks were completed timely and systematically, leading to the successful completion of the comprehensive POS system.
 
 - 💬 SoftwareMaterialSciences, is a project where I assembled a Python program which reads and stores data for multiple variables (DAQ (temperature), Display (temperature), and extensometer) while streamlining experiment values into a single file. I further analyzed/reported data using MATLAB/LabView explaining the performance of tested nickel based superalloy under various non-isothermal loading/testing conditions.
 
