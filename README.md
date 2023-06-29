@@ -8,7 +8,8 @@
 
 - 💬 SoftwareMaterialSciences, is a project where I assembled a Python program which reads and stores data for multiple variables (DAQ (temperature), Display (temperature), and extensometer) while streamlining experiment values into a single file. I further analyzed/reported data using MATLAB/LabView explaining the performance of tested nickel based superalloy under various non-isothermal loading/testing conditions.
 
-
+- 💬 Personal-Website, is a project that deals with a personalized webpage I created without BootStrap or any templates (from scratch!). The websites includes some relevant information about me although it may be a little outdated. I created this website during the time of the Chat GPT frenzy so I included a button that changes the theme of the page to one that Chat GPT generated. As you would see, there is nothing to worry about. AI cannot build aesthics webpages from scratch, yet!
+  
 - 💬 TCP/IP Enhanced IPC System, is a project that involves creating a system that can handle multiple request channels from the client, as well as accept connections from the client, read data from the client, and write data to the client, which is more complex than a simple three-way handshake. This project shows I understand TCP/IP protocol, which is critical for understanding how network attacks happen and how to prevent them.
 
 - 💬 MultiThreadedIPC: Enhanced Client-Server Communication, is a project that involves enhancing a previous client-server IPC implementation by adding multithreading to improve efficiency and runtime. By implementing multithreading to improve efficiency and runtime, I demonstrate an understanding of how system resources can be used effectively and safely.
