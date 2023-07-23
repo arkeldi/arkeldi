@@ -18,7 +18,9 @@
   
 - 💬 Aggie Shell: A Comprehensive Linux Terminal, is a project involving the creation of my own Linux shell that supports a variety of functions including basic commands, pipeline commands, file input/output redirection, multi-piped and redirection, background processes, and directory handling. This Linux shell illustrates my familiarity with Unix-like operating systems, which is very important for system administration and SWE roles.
 
-- 💬 "ECGDataRetrieval: Client-Server Communication, is a project that utilizes a client-server architecture where the client interacts with a server to obtain electrocardiogram (ECG) data of patients. The main operations include fetching individual data points and retrieving whole raw files of varying sizes. In this project, I am dealing with sensitive healthcare data, thus demonstrating an understanding of secure data transmission, a critical aspect in maintaining data privacy.
+- 💬 ECGDataRetrieval: Client-Server Communication, is a project that utilizes a client-server architecture where the client interacts with a server to obtain electrocardiogram (ECG) data of patients. The main operations include fetching individual data points and retrieving whole raw files of varying sizes. In this project, I am dealing with sensitive healthcare data, thus demonstrating an understanding of secure data transmission, a critical aspect in maintaining data privacy.
+
+- 💬 Data Structures and Algorithms, is a project in which I leveraged a novel "map of maps" approach, my program optimizes data indexing and performance in executing Prim's and Dijkstra's algorithms, achieving an efficient O(NLogn) time complexity. I was commended for perfect code correctness, test cases, and coding standards, my project was one of only three to achieve full points in a class of approximately a hundred students.
 
 - 📫 Each project I've worked on includes thorough documentation and detailed analysis.
 
