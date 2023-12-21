@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I'm Arkeldi, and I’m currently working on expanding my knowledge of software engineering by working on various projects shown below.
 
