@@ -25,4 +25,6 @@
 - 📫 Each project I've worked on includes thorough documentation and detailed analysis.
 
 - ⚡ Fun fact: My first name is a combination of my father's name, Arti, and my mother's name, Enkelejda.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkeldi&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
