@@ -5,6 +5,7 @@
 - <b>Full Stack Web App (React, Javascript, SQL, Git and API Components)</b>
   - [Starbucks POS System](https://github.com/arkeldi/StarbucksPOS)
 - <b>Python</b>
-  - [Aggie Competitive Programming Duel Discord Bot](https://github.com/arkeldi/ACPC-Discord-Bot)
+  - [Aggie Competitive Programming Duel Discord Bot Updated](https://github.com/arkeldi/ACPC-Discord-Bot)
+  - [Aggie Competitive Programming Entire Discord Bot](https://github.com/cheran-senthil/TLE)
 
 
