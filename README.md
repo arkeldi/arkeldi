@@ -5,7 +5,7 @@
 I'm currently spearheading the development of a unique Discord bot for a club I am a part of, Aggie Competitive Programming Club, aka ACPC. 
 This Discord bot is designed to add a fun, competitive edge to coding practice among our club members.
 
-Thus, coding practice quickly turns into an exciting duel game hosted on our ACPC Discord. 
+Thus, competitive coding practice quickly turns into an exciting duel game hosted on our ACPC Discord. 
 It's not just about being correct; it's about being quick and efficient!
 
 The GitHub repo contains all the code, diagrams of workflow and database, and documentation of the bot's framework.  
