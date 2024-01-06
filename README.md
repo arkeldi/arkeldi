@@ -2,7 +2,7 @@
                                      
 <h2>👨‍💻 These are my Software Engineering Projects:</h2>
 
-I'm currently spearheading the development of a unique Discord bot for a club I am a part of, Aggie Competitive Programming Club.
+I'm currently leading the development of a unique Discord bot for a club I am a part of, Aggie Competitive Programming Club.
 This Discord bot is designed to add a fun, competitive edge to coding practice among our club members.
 
 Thus, competitive coding practice quickly turns into an exciting duel game hosted on our ACPC Discord. 
