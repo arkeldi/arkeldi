@@ -20,8 +20,8 @@ Throughout my time at Texas A&M University, I often reach a crossroads with soft
 For example, I built a custom Linux shell from scratch. I also implemented an extension of the IPC capabilities of the client-server implementation using TCP/IP protocol.
 
 - <b> 💻  Cybersecurity Projects 🔧 Tech Stack: (C++, Linux, TCP/IP, IPC, API)</b>
-  - [Aggie Linux Shell, Built From Scratch]((https://github.com/arkeldi/Aggie-Shell-A-Comprehensive-Linux-Terminal))
-  - [TCP/IP Enhanced IPC System]((https://github.com/arkeldi/TCP-IP-Enhanced-IPC-System))
+  - [Aggie Linux Shell, Built From Scratch](https://github.com/arkeldi/Aggie-Shell-A-Comprehensive-Linux-Terminal)
+  - [TCP/IP Enhanced IPC System](https://github.com/arkeldi/TCP-IP-Enhanced-IPC-System)
 
 
 Starbucks POS was a fullstack project I worked on with 4 other programmers as part of building a Point of Sales system. 
