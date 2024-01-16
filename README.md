@@ -15,6 +15,14 @@ The GitHub repo contains all the code, diagrams of workflow and database, and do
   - [Aggie Competitive Programming Club Duel Discord Bot Updated](https://github.com/arkeldi/ACPC-Discord-Bot)
   - [Aggie Competitive Programming Club Entire Discord Bot](https://github.com/cheran-senthil/TLE)
 
+Throughout my time at Texas A&M University, I often reach a crossroads with software engineering and cybersecurity which led me to gain experience in both topics. A few of my projects show my deep understanding of network security, system programming, and secure communication protocols.
+
+For example, I built a custom Linux shell from scratch. I also implemented an extension of the IPC capabilities of the client-server implementation using TCP/IP protocol.
+
+- <b> 💻  Cybersecurity Projects 🔧 Tech Stack: (C++, Linux, TCP/IP, IPC, API)</b>
+  - [Aggie Linux Shell, Built From Scratch]((https://github.com/arkeldi/Aggie-Shell-A-Comprehensive-Linux-Terminal))
+  - [TCP/IP Enhanced IPC System]((https://github.com/arkeldi/TCP-IP-Enhanced-IPC-System))
+
 
 Starbucks POS was a fullstack project I worked on with 4 other programmers as part of building a Point of Sales system. 
 
