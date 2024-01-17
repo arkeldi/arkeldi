@@ -10,6 +10,8 @@ It's not just about being correct; it's about being quick and efficient!
 
 The GitHub repo contains all the code, diagrams of workflow and database, and documentation of the bot's framework.  
 
+Right now, this bot supports 200+ active users on our ACPC Discord! Hosted on AWS EC2.
+
 
 - <b> 🤖 ACPC Discord Bot 🔧 Tech Stack: (Python, SQL, APIs, 2-FA, AWS EC2)</b>
   - [Aggie Competitive Programming Club Duel Discord Bot Updated](https://github.com/arkeldi/ACPC-Discord-Bot)
